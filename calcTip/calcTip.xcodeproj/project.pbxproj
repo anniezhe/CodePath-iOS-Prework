@@ -49,6 +49,7 @@
 		DEAF773B26CDB2EC0003677D /* calcTipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calcTipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEAF773F26CDB2EC0003677D /* calcTipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calcTipUITests.swift; sourceTree = "<group>"; };
 		DEAF774126CDB2EC0003677D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEAF774D26CDBAA70003677D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		DEAF771126CDB2EB0003677D = {
 			isa = PBXGroup;
 			children = (
+				DEAF774D26CDBAA70003677D /* README.md */,
 				DEAF771C26CDB2EB0003677D /* calcTip */,
 				DEAF773326CDB2EC0003677D /* calcTipTests */,
 				DEAF773E26CDB2EC0003677D /* calcTipUITests */,
